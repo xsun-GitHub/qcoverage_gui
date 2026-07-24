@@ -1,0 +1,8 @@
+`requirements.txt`：
+
+```text
+numpy
+matplotlib
+PyQt6
+pyFAI
+pyparsing
